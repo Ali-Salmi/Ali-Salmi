@@ -4,10 +4,10 @@
 </div>
   <div align="center">
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am SALMI Ali
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am SALMI Ali
+    <h4>currently a software engineering student. I am fascinated and intrested by the DevOps and ML fields.</h4>
   </h1>
-  <h4>currently a software engineering student. I am fascinated and intrested by the DevOps and ML fields.</h4>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ali-salmi/">
