@@ -39,7 +39,7 @@
 </p>
 <h2>:fire: My Stats :</h2>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ali-Salmi&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+ <p align="center"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ali-Salmi&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats) </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Salmi)](https://github.com/anuraghazra/github-readme-stats)
  -->
