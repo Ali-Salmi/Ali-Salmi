@@ -19,13 +19,13 @@
 </div>
 ### :woman_technologist: About Me :
 <div align="center">
-  I’m currently working on infrastructure as a code project with Terraforme and Ansible
+  <h3>I’m currently working on infrastructure as a code project with Terraforme and Ansible </h3>
 
-🌱 I’m currently learning Kubernetes,Terraform, Ansible and Azure
+  <h3>🌱 I’m currently learning Kubernetes,Terraform, Ansible and Azure </h3>
 
-💬 Ask me about Docker,Kuberenetes, Terraforme,Nexus, and Jenkins
+  <h3>💬 Ask me about Docker,Kuberenetes, Terraforme,Nexus, and Jenkins </h3>
 
-📫 How to reach me salmiali1937@gmail.com
+  <h3>📫 How to reach me salmiali1937@gmail.com </h3>
 </div>
 
 
