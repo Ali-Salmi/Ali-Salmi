@@ -6,7 +6,7 @@
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am SALMI Ali
-    <h3>Currently a software engineering student. I am fascinated and intrested by the DevOps and ML fields. Find out more about me & feel free to connect with me here:</h3>
+    <h3>Cloud and DevOps Engineer. Find out more about me & feel free to connect with me here:</h3>
   </h1>
 </div>
 <div id="badges" align="center">
